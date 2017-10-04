@@ -1,0 +1,50 @@
+2017-10-04 18:04:41,258 INFO [Log] ************************************************************************** 
+2017-10-04 18:04:41,258 INFO [Log] $$$$$$$$$$$$$$$$$$$$$       Shop   $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-04 18:04:41,258 INFO [Log] ************************************************************************** 
+2017-10-04 18:04:43,715 INFO [Log] New driver instantiated 
+2017-10-04 18:04:44,894 INFO [Log] Implicit wait applied on the driver for 10 seconds 
+2017-10-04 18:04:48,375 INFO [Log] Web application launched successfully 
+2017-10-04 18:04:48,457 INFO [Log] Title of the page is fetched 
+2017-10-04 18:04:48,457 INFO [Log] Title has been Verified 
+2017-10-04 18:04:50,457 INFO [Log] verifyTitleExecution done successfully 
+2017-10-04 18:04:50,524 INFO [Log] Menu Option mobile is displayed 
+2017-10-04 18:04:52,753 INFO [Log] Menu Option Mobile has been selected 
+2017-10-04 18:04:54,760 INFO [Log] selectProductExecution done successfully 
+2017-10-04 18:04:54,819 INFO [Log] Sort option displayed Successfully 
+2017-10-04 18:05:02,071 INFO [Log] Sorted Successfully 
+2017-10-04 18:05:02,071 INFO [Log] sortProductListExecution done successfully 
+2017-10-04 18:05:02,091 INFO [Log] Price is displayed in the list page 
+2017-10-04 18:05:02,107 INFO [Log] Price is displayed in the display page 
+2017-10-04 18:05:02,107 INFO [Log] Both the price values are matched 
+2017-10-04 18:05:02,107 INFO [Log] comparePriceExecution done successfully 
+2017-10-04 18:05:02,138 INFO [Log] Button is displayed in the list page 
+2017-10-04 18:05:03,737 INFO [Log] Found the qty field in the shopping cart page 
+2017-10-04 18:05:03,836 INFO [Log] Found the Update button field in the shopping cart page 
+2017-10-04 18:05:04,885 INFO [Log] Error message verified 
+2017-10-04 18:05:04,885 INFO [Log] verifyQuantityExecution done successfully 
+2017-10-04 18:05:05,670 INFO [Log] Out-of-Stock message verified 
+2017-10-04 18:05:10,348 INFO [Log] Sort option displayed Successfully 
+2017-10-04 18:05:17,426 INFO [Log] Sorted Successfully 
+2017-10-04 18:05:19,435 INFO [Log] verifyOutOfStockExecution done successfully 
+2017-10-04 18:05:19,486 INFO [Log] Button is displayed in the list page 
+2017-10-04 18:05:20,939 INFO [Log] Button is displayed in the list page 
+2017-10-04 18:05:22,189 INFO [Log] compare Button found and ready to select 
+2017-10-04 18:05:22,691 INFO [Log] Products added for Comparision 
+2017-10-04 18:05:22,691 INFO [Log] productCompareExecution done successfully 
+2017-10-04 18:05:42,950 ERROR [Log] Assertion Error in product Comparisonorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='top']/body/div[1]/div[1]/h1"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'DSSI-157', ip: '192.168.100.251', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir2436_17074}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=61.0.3163.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ed6888dcff534d2383e01c68091f6cb
+*** Element info: {Using=xpath, value=.//*[@id='top']/body/div[1]/div[1]/h1} 
+2017-10-04 18:05:42,950 INFO [Log] validatepopupExecution done successfully 
+2017-10-04 18:05:42,960 INFO [Log] ***********      -E---N---D-       *********** 
+2017-10-04 18:05:42,960 INFO [Log] X 
+2017-10-04 18:05:42,960 INFO [Log] X 
+2017-10-04 18:05:42,960 INFO [Log] X 
+2017-10-04 18:05:42,960 INFO [Log] X 

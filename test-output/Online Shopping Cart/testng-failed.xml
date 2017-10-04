@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Online Shopping Cart]">
+  <listeners>
+    <listener class-name="utilities.Lstnrs"/>
+  </listeners>
+  <test name="Product Selection and Sorting(failed)">
+    <classes>
+      <class name="testcases.SelectAndSortMobileList">
+        <methods>
+          <include name="verifyQuantity"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- testcases.SelectAndSortMobileList -->
+    </classes>
+  </test> <!-- Product Selection and Sorting(failed) -->
+</suite> <!-- Failed suite [Online Shopping Cart] -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Online Shopping Cart" verbose="1" >
+<listeners>
+ <listener class-name="utilities.Lstnrs"></listener>
+ </listeners>
+  <test name="Product Selection and Sorting" >
+    <classes>
+      <class name="testcases.Shop"/>
+    </classes>
+ </test>
+</suite>

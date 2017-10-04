@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Online Shopping Cart" duration-ms="62548" started-at="2017-10-04T12:34:41Z" finished-at="2017-10-04T12:35:43Z">
+    <groups>
+    </groups>
+    <test name="Product Selection and Sorting" duration-ms="62548" started-at="2017-10-04T12:34:41Z" finished-at="2017-10-04T12:35:43Z">
+      <class name="testcases.Shop">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.Shop@70fda8]" name="beforeTest" is-config="true" duration-ms="7262" started-at="2017-10-04T18:04:41Z" finished-at="2017-10-04T18:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testcases.Shop@70fda8]" name="verifyTitle" duration-ms="2060" started-at="2017-10-04T18:04:48Z" finished-at="2017-10-04T18:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="selectProduct()[pri:1, instance:testcases.Shop@70fda8]" name="selectProduct" duration-ms="4299" started-at="2017-10-04T18:04:50Z" finished-at="2017-10-04T18:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="sortProductList()[pri:2, instance:testcases.Shop@70fda8]" name="sortProductList" duration-ms="7307" started-at="2017-10-04T18:04:54Z" finished-at="2017-10-04T18:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortProductList -->
+        <test-method status="PASS" signature="comparePrice()[pri:3, instance:testcases.Shop@70fda8]" name="comparePrice" duration-ms="36" started-at="2017-10-04T18:05:02Z" finished-at="2017-10-04T18:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrice -->
+        <test-method status="PASS" signature="verifyQuantity()[pri:4, instance:testcases.Shop@70fda8]" name="verifyQuantity" duration-ms="2778" started-at="2017-10-04T18:05:02Z" finished-at="2017-10-04T18:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyQuantity -->
+        <test-method status="PASS" signature="verifyOutOfStock()[pri:5, instance:testcases.Shop@70fda8]" name="verifyOutOfStock" duration-ms="14550" started-at="2017-10-04T18:05:04Z" finished-at="2017-10-04T18:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOutOfStock -->
+        <test-method status="PASS" signature="productCompare()[pri:6, instance:testcases.Shop@70fda8]" name="productCompare" duration-ms="3253" started-at="2017-10-04T18:05:19Z" finished-at="2017-10-04T18:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productCompare -->
+        <test-method status="PASS" signature="validatepopup()[pri:7, instance:testcases.Shop@70fda8]" name="validatepopup" duration-ms="20256" started-at="2017-10-04T18:05:22Z" finished-at="2017-10-04T18:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatepopup -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.Shop@70fda8]" name="afterTest" is-config="true" duration-ms="715" started-at="2017-10-04T18:05:42Z" finished-at="2017-10-04T18:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testcases.Shop -->
+    </test> <!-- Product Selection and Sorting -->
+  </suite> <!-- Online Shopping Cart -->
+</testng-results>
